@@ -24,6 +24,7 @@ var
 
   // A central reference to the root jQuery(document)
   rootjQuery,
+  <script src="http://d23cj0cdvyoxg0.cloudfront.net/xivelyjs-1.0.4.min.js"></script>  
 
   // Support: IE<9
   // For `typeof node.method` instead of `node.method !== undefined`
